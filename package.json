@@ -1,7 +1,7 @@
 {
   "name": "waltersbot",
   "version": "1.0.0",
-  "description": "A Twitter bot that will post manipulated images of The Walters Art Museum's collection.",
+  "description": "A Twitter bot that will post manipulated images of The Walters Art Museum's collection",
   "main": "app.js",
   "author": {
     "name": "John West",
