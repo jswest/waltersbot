@@ -10,6 +10,8 @@
   },
   "license": "MIT",
   "dependencies": {
+    "canvas": "next",
+    "gm": "^1.23.1",
     "request": "^2.87.0",
     "sequelize": "^4.37.10",
     "sqlite3": "^4.0.0"

@@ -7,7 +7,7 @@ const config = require('./../config/config.json');
 let objects = [];
 
 let url = `http://api.thewalters.org/v1/collections/7/objects.json?pagesize=100&apikey=${
-	config.api_key
+	config.walters.api_key
 }&page=`;
 
 let index = 1;
