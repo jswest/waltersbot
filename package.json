@@ -1,0 +1,17 @@
+{
+  "name": "waltersbot",
+  "version": "1.0.0",
+  "description": "A Twitter bot that will post manipulated images of The Walters Art Museum's collection.",
+  "main": "app.js",
+  "author": {
+    "name": "John West",
+    "email": "john@beebe-west.com",
+    "url": "http://beebe-west.com/john"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.87.0",
+    "sequelize": "^4.37.10",
+    "sqlite3": "^4.0.0"
+  }
+}

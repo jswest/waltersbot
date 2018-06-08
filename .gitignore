@@ -1,0 +1,4 @@
+config/config.json
+data/objects.json
+db/walters.db
+node_modules/
