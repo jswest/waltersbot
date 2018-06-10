@@ -23,3 +23,6 @@ By John West, under the MIT license.
 -   You now have a SQLITE database that you can explore. Run `.schema` from the SQLITE db to see the fields.
 
 ## Running the Twitter Bot.
+
+-   Get your Twitter keys and put them in the config file.
+-   Run `node app.py`.
